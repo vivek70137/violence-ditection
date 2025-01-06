@@ -1,2 +1,2 @@
-# violence-ditection
+# violence-detection
 it is for
